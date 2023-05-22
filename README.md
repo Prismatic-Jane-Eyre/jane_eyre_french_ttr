@@ -1,4 +1,4 @@
-# <a href="[https://digitalkoine.github.io/je_prismatic_generalmap/](https://digitalkoine.github.io/jane_eyre_french_ttr/)">Type-Token Ratio (TTR) Jane Eyre French Translations</a>
+# <a href="https://digitalkoine.github.io/jane_eyre_french_ttr/">Type-Token Ratio (TTR) Jane Eyre French Translations</a>
 
 This repository contains an R code for creating an interactive line plot using the ggplot2 and plotly libraries. The line plot displays multiple lines from a CSV dataset, allowing users to interactively explore the data.
 
