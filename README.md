@@ -32,18 +32,6 @@ Change the title and subtitle of the plot using the labs() function.
 Modify the theme settings to change the appearance of the plot.
 Feel free to experiment and tailor the code to your specific requirements.
 
-Example Dataset
-
-The code is designed to work with a CSV dataset containing chapters and corresponding values. The dataset should have the following format:
-
-Chapter	1854	1919	1946	1964	1966	2008	Original
-Chapter 1	0.4405405	0.4484305	0.4683944	0.4423351	0.4355275	0.4536183	0.4275474
-Chapter 2	0.3960714	0.4598183	0.4259343	0.3399911	0.3310531	0.3395473	0.3813651
-Chapter 3	0.3638915	0.3246578	0.3235895	0.3090231	0.2976092	0.3071512	0.3299193
-Chapter 4	0.3116951	0.3905184	0.3990590	0.3632297	0.3488518	0.3580681	0.2881009
-Chapter 5	0.3096799	0.3455011	0.3459257	0.3409195	0.3326823	0.3438809	0.2854877
-Replace this dataset with your own data to visualize different line plots.
-
 License
 
 This code is released under the MIT License.
